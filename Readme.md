@@ -1,3 +1,4 @@
+# Deprecated: use [component/debounce](http://github.com/component/debounce) instead.
 
 # debounce
 
