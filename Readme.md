@@ -1,4 +1,6 @@
-# Deprecated: use [component/debounce](http://github.com/component/debounce) instead.
+### Deprecated: use [component/debounce](http://github.com/component/debounce) instead.
+
+---
 
 # debounce
 
